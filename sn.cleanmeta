@@ -1,0 +1,323 @@
+{
+  "copyright": "(c) 1995 Jason Baker",
+  "description": "TR909 snares",
+  "email": "alex@slab.org",
+  "license": "CC-by-sa-nc",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "tr909 samples from Rob Roy recordings. License info is here, which I've interpreted as compatible with cc-by-nc-sa, but ymmv http://www.olliebown.com/files/music/Roland909/TR909SET.TXT",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "sn/ST0T0S0.wav",
+      "shortname": "ST0T0S0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0T0S3.wav",
+      "shortname": "ST0T0S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0T0S7.wav",
+      "shortname": "ST0T0S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0T0SA.wav",
+      "shortname": "ST0T0SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0T3S3.wav",
+      "shortname": "ST0T3S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0T3S7.wav",
+      "shortname": "ST0T3S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0T3SA.wav",
+      "shortname": "ST0T3SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0T7S3.wav",
+      "shortname": "ST0T7S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0T7S7.wav",
+      "shortname": "ST0T7S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0T7SA.wav",
+      "shortname": "ST0T7SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0TAS3.wav",
+      "shortname": "ST0TAS3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0TAS7.wav",
+      "shortname": "ST0TAS7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST0TASA.wav",
+      "shortname": "ST0TASA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T0S0.wav",
+      "shortname": "ST3T0S0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T0S3.wav",
+      "shortname": "ST3T0S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T0S7.wav",
+      "shortname": "ST3T0S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T0SA.wav",
+      "shortname": "ST3T0SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T3S3.wav",
+      "shortname": "ST3T3S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T3S7.wav",
+      "shortname": "ST3T3S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T3SA.wav",
+      "shortname": "ST3T3SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T7S3.wav",
+      "shortname": "ST3T7S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T7S7.wav",
+      "shortname": "ST3T7S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3T7SA.wav",
+      "shortname": "ST3T7SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3TAS3.wav",
+      "shortname": "ST3TAS3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3TAS7.wav",
+      "shortname": "ST3TAS7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST3TASA.wav",
+      "shortname": "ST3TASA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T0S0.wav",
+      "shortname": "ST7T0S0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T0S3.wav",
+      "shortname": "ST7T0S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T0S7.wav",
+      "shortname": "ST7T0S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T0SA.wav",
+      "shortname": "ST7T0SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T3S3.wav",
+      "shortname": "ST7T3S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T3S7.wav",
+      "shortname": "ST7T3S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T3SA.wav",
+      "shortname": "ST7T3SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T7S3.wav",
+      "shortname": "ST7T7S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T7S7.wav",
+      "shortname": "ST7T7S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7T7SA.wav",
+      "shortname": "ST7T7SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7TAS3.wav",
+      "shortname": "ST7TAS3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7TAS7.wav",
+      "shortname": "ST7TAS7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/ST7TASA.wav",
+      "shortname": "ST7TASA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT0S0.wav",
+      "shortname": "STAT0S0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT0S3.wav",
+      "shortname": "STAT0S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT0S7.wav",
+      "shortname": "STAT0S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT0SA.wav",
+      "shortname": "STAT0SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT3S3.wav",
+      "shortname": "STAT3S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT3S7.wav",
+      "shortname": "STAT3S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT3SA.wav",
+      "shortname": "STAT3SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT7S3.wav",
+      "shortname": "STAT7S3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT7S7.wav",
+      "shortname": "STAT7S7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STAT7SA.wav",
+      "shortname": "STAT7SA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STATAS3.wav",
+      "shortname": "STATAS3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STATAS7.wav",
+      "shortname": "STATAS7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sn/STATASA.wav",
+      "shortname": "STATASA",
+      "type": "sample"
+    }
+  ]
+}

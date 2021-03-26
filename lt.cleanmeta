@@ -1,0 +1,107 @@
+{
+  "copyright": "(c) 1995 Jason Baker",
+  "description": "TR909 low toms",
+  "email": "alex@slab.org",
+  "license": "CC-by-sa-nc",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "tr909 samples from Rob Roy recordings. License info is here, which I've interpreted as compatible with cc-by-nc-sa, but ymmv http://www.olliebown.com/files/music/Roland909/TR909SET.TXT",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "lt/LT0D0.wav",
+      "shortname": "LT0D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT0D3.wav",
+      "shortname": "LT0D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT0D7.wav",
+      "shortname": "LT0D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT0DA.wav",
+      "shortname": "LT0DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT3D0.wav",
+      "shortname": "LT3D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT3D3.wav",
+      "shortname": "LT3D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT3D7.wav",
+      "shortname": "LT3D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT3DA.wav",
+      "shortname": "LT3DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT7D0.wav",
+      "shortname": "LT7D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT7D3.wav",
+      "shortname": "LT7D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT7D7.wav",
+      "shortname": "LT7D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LT7DA.wav",
+      "shortname": "LT7DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LTAD0.wav",
+      "shortname": "LTAD0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LTAD3.wav",
+      "shortname": "LTAD3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LTAD7.wav",
+      "shortname": "LTAD7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt/LTADA.wav",
+      "shortname": "LTADA",
+      "type": "sample"
+    }
+  ]
+}

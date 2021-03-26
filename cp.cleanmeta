@@ -1,0 +1,23 @@
+{
+  "copyright": "(c) 1995 Jason Baker",
+  "description": "TR909 handclaps",
+  "email": "alex@slab.org",
+  "license": "CC-by-sa-nc",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "tr909 samples from Rob Roy recordings. License info is here, which I've interpreted as compatible with cc-by-nc-sa, but ymmv http://www.olliebown.com/files/music/Roland909/TR909SET.TXT",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "cp/HANDCLP0.wav",
+      "shortname": "HANDCLP0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cp/HANDCLPA.wav",
+      "shortname": "HANDCLPA",
+      "type": "sample"
+    }
+  ]
+}

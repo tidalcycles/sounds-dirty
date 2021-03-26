@@ -1,0 +1,7 @@
+(
+	\name: 			"Clean-dirty",
+	\summary:		"Clean samples extracted from the classic Dirt-Samples samplepack",
+	\author: 		"Alex McLean et al",
+	\since: 		"2021",
+	\dependencies:  []
+)

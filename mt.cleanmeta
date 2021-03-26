@@ -1,0 +1,107 @@
+{
+  "copyright": "(c) 1995 Jason Baker",
+  "description": "TR909 mid toms",
+  "email": "alex@slab.org",
+  "license": "CC-by-sa-nc",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "tr909 samples from Rob Roy recordings. License info is here, which I've interpreted as compatible with cc-by-nc-sa, but ymmv http://www.olliebown.com/files/music/Roland909/TR909SET.TXT",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "mt/MT0D0.wav",
+      "shortname": "MT0D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT0D3.wav",
+      "shortname": "MT0D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT0D7.wav",
+      "shortname": "MT0D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT0DA.wav",
+      "shortname": "MT0DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT3D0.wav",
+      "shortname": "MT3D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT3D3.wav",
+      "shortname": "MT3D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT3D7.wav",
+      "shortname": "MT3D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT3DA.wav",
+      "shortname": "MT3DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT7D0.wav",
+      "shortname": "MT7D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT7D3.wav",
+      "shortname": "MT7D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT7D7.wav",
+      "shortname": "MT7D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MT7DA.wav",
+      "shortname": "MT7DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MTAD0.wav",
+      "shortname": "MTAD0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MTAD3.wav",
+      "shortname": "MTAD3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MTAD7.wav",
+      "shortname": "MTAD7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt/MTADA.wav",
+      "shortname": "MTADA",
+      "type": "sample"
+    }
+  ]
+}

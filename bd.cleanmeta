@@ -1,0 +1,155 @@
+{
+  "copyright": "(c) 1995 Jason Baker",
+  "description": "TR909 bd",
+  "email": "alex@slab.org",
+  "license": "CC-by-sa-nc",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "tr909 samples from Rob Roy recordings. License info is here, which I've interpreted as compatible with cc-by-nc-sa, but ymmv http://www.olliebown.com/files/music/Roland909/TR909SET.TXT",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "bd/BT0A0A7.wav",
+      "shortname": "BT0A0A7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT0A0D0.wav",
+      "shortname": "BT0A0D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT0A0D3.wav",
+      "shortname": "BT0A0D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT0A0DA.wav",
+      "shortname": "BT0A0DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT0AAD0.wav",
+      "shortname": "BT0AAD0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT0AADA.wav",
+      "shortname": "BT0AADA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT3A0D0.wav",
+      "shortname": "BT3A0D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT3A0D3.wav",
+      "shortname": "BT3A0D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT3A0D7.wav",
+      "shortname": "BT3A0D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT3A0DA.wav",
+      "shortname": "BT3A0DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT3AAD0.wav",
+      "shortname": "BT3AAD0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT3AADA.wav",
+      "shortname": "BT3AADA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT7A0D0.wav",
+      "shortname": "BT7A0D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT7A0D3.wav",
+      "shortname": "BT7A0D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT7A0D7.wav",
+      "shortname": "BT7A0D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT7A0DA.wav",
+      "shortname": "BT7A0DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT7AAD0.wav",
+      "shortname": "BT7AAD0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BT7AADA.wav",
+      "shortname": "BT7AADA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BTAA0D0.wav",
+      "shortname": "BTAA0D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BTAA0D3.wav",
+      "shortname": "BTAA0D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BTAA0D7.wav",
+      "shortname": "BTAA0D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BTAA0DA.wav",
+      "shortname": "BTAA0DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BTAAAD0.wav",
+      "shortname": "BTAAAD0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "bd/BTAAADA.wav",
+      "shortname": "BTAAADA",
+      "type": "sample"
+    }
+  ]
+}

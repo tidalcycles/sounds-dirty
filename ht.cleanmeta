@@ -1,0 +1,107 @@
+{
+  "copyright": "(c) 1995 Jason Baker",
+  "description": "TR909 high toms",
+  "email": "alex@slab.org",
+  "license": "CC-by-sa-nc",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "tr909 samples from Rob Roy recordings. License info is here, which I've interpreted as compatible with cc-by-nc-sa, but ymmv http://www.olliebown.com/files/music/Roland909/TR909SET.TXT",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "ht/HT0D0.wav",
+      "shortname": "HT0D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT0D3.wav",
+      "shortname": "HT0D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT0D7.wav",
+      "shortname": "HT0D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT0DA.wav",
+      "shortname": "HT0DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT3D0.wav",
+      "shortname": "HT3D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT3D3.wav",
+      "shortname": "HT3D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT3D7.wav",
+      "shortname": "HT3D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT3DA.wav",
+      "shortname": "HT3DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT7D0.wav",
+      "shortname": "HT7D0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT7D3.wav",
+      "shortname": "HT7D3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT7D7.wav",
+      "shortname": "HT7D7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HT7DA.wav",
+      "shortname": "HT7DA",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HTAD0.wav",
+      "shortname": "HTAD0",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HTAD3.wav",
+      "shortname": "HTAD3",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HTAD7.wav",
+      "shortname": "HTAD7",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "ht/HTADA.wav",
+      "shortname": "HTADA",
+      "type": "sample"
+    }
+  ]
+}

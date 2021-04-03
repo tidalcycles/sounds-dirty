@@ -6,6 +6,7 @@
   "maintainer": "alex",
   "metadata-format": "clean-0.1",
   "provenance": "tr909 samples from Rob Roy recordings. License info is here, which I've interpreted as compatible with cc-by-nc-sa, but ymmv http://www.olliebown.com/files/music/Roland909/TR909SET.TXT",
+  "shortname": "sn",
   "sounds": [
     {
       "description": "",
